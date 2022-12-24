@@ -1,0 +1,11 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+sample-M040-1_S119_L001	$pwd/home/berta/Enterococos/secuencias_enterococos/fastq/M040-1_S119_L001_R1_001.fastq.gz	$pwd/home/berta/Enterococos/secuencias_enterococos/fastq/M040-1_S119_L001_R2_001.fastq.gz
+sample-M040-3_S113_L001	$pwd/home/berta/Enterococos/secuencias_enterococos/fastq/M040-3_S113_L001_R1_001.fastq.gz	$pwd/home/berta/Enterococos/secuencias_enterococos/fastq/M040-3_S113_L001_R2_001.fastq.gz
+sample-M048-1_S18_L001	$pwd/home/berta/Enterococos/secuencias_enterococos/fastq/M048-1_S18_L001_R1_001.fastq.gz	$pwd/home/berta/Enterococos/secuencias_enterococos/fastq/M048-1_S18_L001_R2_001.fastq.gz
+sample-M048-2_S19_L001	$pwd/home/berta/Enterococos/secuencias_enterococos/fastq/M048-2_S19_L001_R1_001.fastq.gz	$pwd/home/berta/Enterococos/secuencias_enterococos/fastq/M048-2_S19_L001_R2_001.fastq.gz
+sample-M049-3_S20_L001	$pwd/home/berta/Enterococos/secuencias_enterococos/fastq/M049-3_S20_L001_R1_001.fastq.gz	$pwd/home/berta/Enterococos/secuencias_enterococos/fastq/M049-3_S20_L001_R2_001.fastq.gz
+sample-M049-4_S21_L001	$pwd/home/berta/Enterococos/secuencias_enterococos/fastq/M049-4_S21_L001_R1_001.fastq.gz	$pwd/home/berta/Enterococos/secuencias_enterococos/fastq/M049-4_S21_L001_R2_001.fastq.gz
+sample-M069-1_S36_L001	$pwd/home/berta/Enterococos/secuencias_enterococos/fastq/M069-1_S36_L001_R1_001.fastq.gz	$pwd/home/berta/Enterococos/secuencias_enterococos/fastq/M069-1_S36_L001_R2_001.fastq.gz
+sample-M069-2_S37_L001	$pwd/home/berta/Enterococos/secuencias_enterococos/fastq/M069-2_S37_L001_R1_001.fastq.gz	$pwd/home/berta/Enterococos/secuencias_enterococos/fastq/M069-2_S37_L001_R2_001.fastq.gz
+sample-M096-1_S126_L001	$pwd/home/berta/Enterococos/secuencias_enterococos/fastq/M096-1_S126_L001_R1_001.fastq.gz	$pwd/home/berta/Enterococos/secuencias_enterococos/fastq/M096-1_S126_L001_R2_001.fastq.gz
+sample-M096-2_S127_L001	$pwd/home/berta/Enterococos/secuencias_enterococos/fastq/M096-2_S127_L001_R1_001.fastq.gz	$pwd/home/berta/Enterococos/secuencias_enterococos/fastq/M096-2_S127_L001_R2_001.fastq.gz
